@@ -4,7 +4,7 @@
     "paragraph": "Delivering trusted audit and assurance services to help businesses stay compliant, transparent, and financially sound."
   },
   "About": {
-    "paragraph": "At SN Partners, we are a team of experienced professionals dedicated to providing top-tier audit and advisory services. We help businesses navigate complex financial landscapes, ensuring compliance and improving internal controls.Our mission is to empower businesses with reliable financial insights, enabling transparency, risk management, and regulatory compliance. We aim to build lasting relationships by offering solutions tailored to each client’s unique needs.At SN Partners, we operate with integrity, ensuring honesty and transparency in everything we do. We strive for excellence in every service, and we are committed to helping clients succeed. We also embrace innovation, continually adopting new methods and technologies to enhance our services.",
+    "paragraph": "At SN Partners, we are a team of experienced professionals dedicated to providing top-tier audit , tax and accounting advisory . We help businesses navigate complex financial landscapes, ensuring compliance and improving internal controls.Our mission is to empower businesses with reliable financial insights, enabling transparency, risk management, and regulatory compliance. We aim to build lasting relationships by offering solutions tailored to each client’s unique needs.At SN Partners, we operate with integrity, ensuring honesty and transparency in everything we do. We strive for excellence in every service, and we are committed to helping clients succeed. We also embrace innovation, continually adopting new methods and technologies to enhance our services.",
     "Why": [
     "Expertise",
     "Tailored Solutions",
@@ -70,8 +70,8 @@
 "Services": [
   {
     "icon": "fa fa-search",
-    "name": "External Financial Audits",
-    "text": "Independent examination of financial statements to ensure accuracy and adherence to accounting standards."
+    "name": "Financial Audits",
+    "text": "Independent review of financial records to ensure accuracy and compliance with accounting standards."
   },
   {
     "icon": "fa fa-shield",
@@ -80,23 +80,23 @@
   },
   {
     "icon": "fa fa-calculator",
-    "name": "Tax Audit & Advisory",
+    "name": "Tax & Advisory",
     "text": "Review of tax records and guidance on tax planning to ensure compliance with tax laws and regulations."
   },
   {
-    "icon": "fa fa-gavel",
-    "name": "Compliance Audits",
-    "text": "Verification that business operations align with legal, regulatory, and industry-specific standards."
-  },
+  "icon": "fa fa-calculator",
+  "name": "Accounting",
+  "text": "Manages financial records, transactions, and reporting in compliance with accounting principles."
+},
   {
     "icon": "fa fa-desktop",
     "name": "IT & System Audits",
     "text": "Assessment of information systems to evaluate data integrity, cybersecurity, and process automation."
   },
   {
-    "icon": "fa fa-user-secret",
-    "name": "Forensic Auditing",
-    "text": "Investigation of fraud, corruption, or financial misconduct to support legal or corporate action."
+    "icon": "fa fa-database",
+    "name": "Data Analytics",
+    "text": "Extracts, processes, and interprets complex data to uncover insights, support decision-making, and drive strategic actions."
   }
 ],
   "Testimonials": [
@@ -144,11 +144,11 @@
     }
   ],
   "Contact": {
-    "address": "4321 California St, San Francisco, CA 12345 ",
-    "phone": "+1 123 456 1234",
+    "address": "69H,Palagama Road , Ambalangoda , Polgasowita , Sri Lanka",
+    "phone": "+94 717 801 214",
     "email": "info@company.com",
     "facebook": "fb.com",
-    "twitter": "twitter.com",
+    "WhatsApp": "",
     "youtube": "youtube.com"
   },
   "Features": [
@@ -158,19 +158,19 @@
     "text": "Independent review of financial statements to ensure accuracy and compliance with accounting standards."
   },
   {
-    "icon": "fa fa-cogs",
-    "title": "Internal Control Evaluation",
-    "text": "Assessment of a company’s internal processes to identify weaknesses and improve efficiency."
+  "icon": "fa fa-cogs",
+  "title": "Risk & Control Evaluation",
+  "text": "Assesses internal controls and risks to strengthen compliance and operational efficiency."
   },
   {
     "icon": "fa fa-gavel",
-    "title": "Regulatory Compliance",
-    "text": "Ensures the organization follows relevant laws, tax regulations, and industry standards."
+    "title": "Tax Compliance",
+    "text": "Ensures the organization follows tax regulations, and industry standards."
   },
   {
-    "icon": "fa fa-exclamation-triangle",
-    "title": "Risk Assessment & Advisory",
-    "text": "Identifies potential financial and operational risks and offers guidance to mitigate them."
+    "icon": "fa fa-database",
+    "title": "Data Analytics",
+    "text": "Extracts, processes, and interprets complex data to uncover insights, support decision-making, and drive strategic actions."
   }
 ]
 

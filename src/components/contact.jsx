@@ -24,7 +24,7 @@ export const Contact = (props) => {
     
     
     emailjs
-      .sendForm("YOUR_SERVICE_ID", "YOUR_TEMPLATE_ID", e.target, "YOUR_PUBLIC_KEY")
+      .sendForm("service_3wp283j", "template_qwh8l4r", e.target, "9lI_fUajyHxiwrXKZ")
       .then(
         (result) => {
           console.log(result.text);
@@ -48,7 +48,7 @@ export const Contact = (props) => {
                   get back to you as soon as possible.
                 </p>
               </div>
-              <form name="sentMessage" validate onSubmit={handleSubmit}>
+              <form name="sentMessage" validate onSubmit={handleSubmit} class="contact-form">
                 <div className="row">
                   <div className="col-md-6">
                     <div className="form-group">
@@ -142,6 +142,11 @@ export const Contact = (props) => {
                   <li>
                     <a href={props.data ? props.data.youtube : "/"}>
                       <i className="fa fa-youtube"></i>
+                    </a>
+                  </li>
+                  <li>
+                    <a href={props.data ? props.data.whatsApp : "/"}>
+                      <i className="fa fa-whatsApp"></i>
                     </a>
                   </li>
                 </ul>
